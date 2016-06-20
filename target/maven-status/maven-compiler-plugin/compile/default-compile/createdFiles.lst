@@ -1,0 +1,6 @@
+br\com\apisys\model\Cliente.class
+br\com\apisys\controller\CrudController.class
+br\com\apisys\service\ClienteService.class
+br\com\apisys\dao\ClienteDAOImpl.class
+br\com\apisys\service\ClienteServiceImpl.class
+br\com\apisys\dao\ClienteDAO.class
